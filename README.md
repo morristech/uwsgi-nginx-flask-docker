@@ -7,7 +7,7 @@ http://ww1.sinaimg.cn/large/863bb56fgw1f3r5e627m9g20jg08cwej.gif
 
 ----->
 
-https://4679kun-https.daoapp.io//ww1.sinaimg.cn/large/863bb56fgw1f3r5e627m9g20jg08cwej.gif
+https://https.daoapp.io//ww1.sinaimg.cn/large/863bb56fgw1f3r5e627m9g20jg08cwej.gif
 
 ## Acknowledgements 致谢
 - [tiangolo/uwsgi-nginx:latest](https://github.com/tiangolo/uwsgi-nginx-docker)
