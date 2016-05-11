@@ -9,8 +9,6 @@ CHUNK_SIZE = 2048
 
 @app.route('/<path:url>')
 def proxy(url):
-    if not re.match(r'ww[0-9]\.sinaimg.cn\/', url):
-        url = "ww3.sinaimg.cn/large/images/default_large.gif"
     r = requests.get("http://"+url, stream=True)
     def generate():
         for chunk in r.iter_content(CHUNK_SIZE):
