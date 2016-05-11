@@ -1,13 +1,13 @@
 ## About
-This is a Docker Flask Steam SSL Proxy for Sinaimg. This container can fix the HTTPS protocol for Sinaimg, which is the best image hosting sercive in China. This project is based on [tiangolo/uwsgi-nginx:latest](https://github.com/tiangolo/uwsgi-nginx-docker). Thanks!
+This is a Docker Flask Steam SSL Proxy for everything. This container can fix the HTTPS protocol for everything. This project is based on [tiangolo/uwsgi-nginx:latest](https://github.com/tiangolo/uwsgi-nginx-docker). Thanks!
 ## 关于
-这是一个新浪图床的Docker Flask Steam SSL Proxy代理。这个容器主要是为了解决新浪图床HTTPS协议的问题。本项目基于 [tiangolo/uwsgi-nginx:latest](https://github.com/tiangolo/uwsgi-nginx-docker)，表示感谢！
+把任何http链接https化,这个容器主要是为了解决新浪图床HTTPS协议的问题。本项目基于 [tiangolo/uwsgi-nginx:latest](https://github.com/tiangolo/uwsgi-nginx-docker)，表示感谢！
 ## Usage 用法
 http://ww1.sinaimg.cn/large/863bb56fgw1f3r5e627m9g20jg08cwej.gif
 
 ----->
 
-https://sinaimg.daoapp.io/ww1.sinaimg.cn/large/863bb56fgw1f3r5e627m9g20jg08cwej.gif
+https://4679kun-https.daoapp.io//ww1.sinaimg.cn/large/863bb56fgw1f3r5e627m9g20jg08cwej.gif
 
 ## Acknowledgements 致谢
 - [tiangolo/uwsgi-nginx:latest](https://github.com/tiangolo/uwsgi-nginx-docker)

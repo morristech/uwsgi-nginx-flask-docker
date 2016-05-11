@@ -17,7 +17,7 @@ def proxy(url):
 
 @app.errorhandler(404)
 def page_not_found(e):
-	return redirect("https://yux.io")
+	return redirect("https://libnull.com/")
 
 @app.errorhandler(500)
 def internal_server_rror(e):
