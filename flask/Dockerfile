@@ -1,6 +1,6 @@
 FROM tiangolo/uwsgi-nginx:latest
 
-MAINTAINER YUX <yu.xiao.fr@gmail.com>
+MAINTAINER Jiawei Zhou <4679kun@outlook.com>
 
 RUN pip install flask
 RUN pip install requests
